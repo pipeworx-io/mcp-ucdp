@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/ucdp",
+  "title": "Ucdp",
+  "description": "Armed-conflict deaths, active wars and violence events from the Uppsala Conflict Data Program…",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/ucdp",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-ucdp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/ucdp/mcp"
+    }
+  ]
+}
