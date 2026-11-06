@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ucdp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Armed-conflict deaths, active wars and violence events from the Uppsala Conflict Data Program (UCDP), every country since 1989.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ucdp",
     "gatewaySlug": "ucdp",
-    "sourceHash": "v1-aae8aca1e7cdd0ac9e57b9d01a1f2c73db12cef159ef86d5e2e331b7f9918d84",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-2c2f89503755c8db513afa03f8582cc2243f14b45593605723530724f91ef14c",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
